@@ -20,3 +20,7 @@ Milestone 3 .... (put what milestone 3 is/does?)
 
 ## Refactor?
 idk if this goes in readme
+
+
+# Evaluation
+also dont know if this goes in readme
